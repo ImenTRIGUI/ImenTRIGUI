@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ImenTRIGUI
-- 👀 I’m interested in IOT and AI
-- 🌱 I’m currently an Industrial Computer Engineering Student
+- 👀 I’m a QA engineer
+- 🌱 I’m constantly strive to improve user experience and customer satisfaction.
+- 🚀 Let’s code with quality! 
 
 
 <!---
